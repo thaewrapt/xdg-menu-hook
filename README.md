@@ -3,4 +3,4 @@ Pacman hook for auto-regeneration of xdg-menus in Arch Linux (after every succes
 
 Dependencies: `archlinux-xdg-menu` package (for `update-menus` script and `xdg-menu` command itself).
 
-For additional information and an installation routine check `man 5 alpm-hooks`.
+For additional information and an installation routine check `man 5 alpm-hooks`. You can also use a corresponding AUR package: https://github.com/thaewrapt/xdg-menu-hook-git.
